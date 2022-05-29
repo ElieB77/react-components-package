@@ -1,5 +1,5 @@
 {
-  "name": "@Nekall/react-components-library",
+  "name": "@elieB77/react-components-package",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -25,6 +25,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Nekall"
+    "registry": "https://npm.pkg.github.com/elieB77"
   }
 }
